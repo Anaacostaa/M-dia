@@ -1,1 +1,2 @@
-# M-dia
+# Media
+Equipe: Ana e Rafaela
